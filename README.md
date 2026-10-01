@@ -1,24 +1,24 @@
 # 👋 Hi, I'm Mohamad Taha
 
-🐍 Python Developer | 🤖 AI & Machine Learning Enthusiast
+🐍 **Python Developer | 🤖 AI & Machine Learning Enthusiast**
 
-I'm a Python developer interested in **Artificial Intelligence, Machine Learning, Computer Vision, and Automation**.
+I'm a Python developer interested in **Artificial Intelligence, Machine Learning, Computer Vision, Data Science, and Automation**.
 
-I enjoy turning ideas into practical projects and continuously improving my programming skills.
+I enjoy turning ideas into practical software projects and continuously improving my programming skills.
 
-
+---
 
 ## 🚀 About Me
 
 * 🐍 Working with Python
-* 🤖 Interested in Artificial Intelligence & Machine Learning
-* 👁️ Exploring Computer Vision with OpenCV
-* 📊 Interested in Data Science
-* 🤖 Building Telegram Bots
+* 🤖 Exploring Artificial Intelligence & Machine Learning
+* 👁️ Building Computer Vision projects with OpenCV
+* 📊 Learning Data Science and Machine Learning
+* 🤖 Developing Telegram Bots
 * 🖥️ Creating desktop applications with Tkinter
-* 💡 Always learning and building new projects
+* 💡 Always learning, experimenting, and building
 
-
+---
 
 ## 🛠️ Tech Stack
 
@@ -32,11 +32,11 @@ I enjoy turning ideas into practical projects and continuously improving my prog
 
 ### Computer Vision
 
-`OpenCV`
+`OpenCV` `YuNet`
 
 ### GUI
 
-`Tkinter`
+`Tkinter` `Pillow`
 
 ### Bots & Automation
 
@@ -54,6 +54,30 @@ I enjoy turning ideas into practical projects and continuously improving my prog
 
 ## 📌 Featured Projects
 
+### 🛡️ VisionGuard — AI Security & Computer Vision System
+
+A real-time security monitoring system built with Python and OpenCV.
+
+**Features:**
+
+* 📷 Real-time webcam monitoring
+* 👤 Face detection
+* 👁️ Eye detection
+* 👥 People counting
+* 🚨 Smart security alerts
+* 🔊 Windows audio alarm
+* 📸 Automatic security screenshots
+* 📊 Security statistics
+* 📝 Event history and logging
+* 🤖 YuNet-based face detection
+* 🖥️ Real-time security dashboard
+
+**Technologies:** `Python` `OpenCV` `YuNet` `Computer Vision`
+
+🔗 [View VisionGuard](https://github.com/mohamadtaha-dev/visionguard-security-system)
+
+---
+
 ### 🎮 Baijin — Telegram Word Game
 
 A Persian word puzzle game built with Python and Telegram Bot API.
@@ -67,56 +91,61 @@ A Persian word puzzle game built with Python and Telegram Bot API.
 * 👤 User profiles
 * 💾 SQLite database
 
+**Technologies:** `Python` `Telegram Bot API` `SQLite`
+
+🔗 [View Baijin](https://github.com/mohamadtaha-dev/baijin-telegram-bot)
+
 ---
 
-🎬 Movie Recommendation System
+### 🎬 Movie Recommendation System
 
 A Python-based movie recommendation project using data analysis and machine learning.
 
-Technologies:
-`Python` `Pandas` `Scikit-learn` `Tkinter`
+**Technologies:** `Python` `Pandas` `Scikit-learn` `Tkinter`
 
 ---
 
- 📷 Photo Editor Avizhe
+### 📷 Photo Editor Avizhe
 
 A desktop image editing application built with Python.
 
-Features:
+**Features:**
 
 * 🖼️ Image editing
-* ✨ Filters
+* ✨ Image filters
 * ✂️ Crop & Resize
 * ↩️ Undo / Redo
 * 🖥️ Desktop GUI
 
-**Technologies:**
-`Python` `Tkinter` `Pillow`
+**Technologies:** `Python` `Tkinter` `Pillow`
 
+---
 
-
-👁️ Computer Vision Projects
+### 👁️ Computer Vision Projects
 
 Exploring computer vision with Python and OpenCV, including face and eye detection projects.
 
+---
 
-
-📈 My Goals
+## 📈 Current Focus
 
 I'm currently focused on improving my skills in:
 
-* Artificial Intelligence
-* Machine Learning
-* Computer Vision
-* Data Science
-* Python Development
+* 🤖 Artificial Intelligence
+* 🧠 Machine Learning
+* 👁️ Computer Vision
+* 📊 Data Science
+* 🐍 Advanced Python Development
 
 My goal is to build useful software and AI projects that solve real-world problems.
 
+---
 
-📫 Connect With Me
+## 📫 Connect With Me
 
 **GitHub:** [@mohamadtaha-dev](https://github.com/mohamadtaha-dev)
 
+---
 
-⭐ Thanks for visiting my profile!
+⭐ **Thanks for visiting my profile!**
+
